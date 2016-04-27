@@ -12,6 +12,7 @@
 */
 
 Route::get('/', 'ArticleController@index');
+Route::get('articles/{id}', 'ArticleController@show');
 
 //Route::get('/', function () {
 //    return view('welcome');
