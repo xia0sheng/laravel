@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baa7ddc5-0ac9-48bc-adfe-b20c708106dd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/app.blade.php" afterPath="$PROJECT_DIR$/resources/views/app.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/articles/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/articles/index.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/articles/show.blade.php" afterPath="$PROJECT_DIR$/resources/views/articles/show.blade.php" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/articles/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
               <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/articles/show.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -85,6 +94,7 @@
       <list>
         <option value="$PROJECT_DIR$/resources/views/app.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/articles/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/articles/show.blade.php" />
       </list>
     </option>
   </component>
@@ -294,12 +304,12 @@
       <workItem from="1461823097722" duration="977000" />
       <workItem from="1461824116349" duration="2651000" />
       <workItem from="1461829922709" duration="2102000" />
-      <workItem from="1461832124501" duration="786000" />
+      <workItem from="1461832124501" duration="908000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9621000" />
+    <option name="totallyTimeSpent" value="9743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -532,6 +542,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/articles/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
           <folding />
         </state>
       </provider>
