@@ -8,6 +8,9 @@ use App\Http\Requests;
 
 use App\Article;
 
+use Carbon\Carbon;
+
+
 class ArticleController extends Controller
 {
     /**
@@ -42,6 +45,11 @@ class ArticleController extends Controller
     public function store(Request $request)
     {
         //
+        $input = $request->all();
+        $input['introduction'] = mb_substr($request->get('content'),0,64);
+        $input['published_at'] = Carbon::now();
+        Article::create($input);
+        return redirect('/');
     }
 
     /**
