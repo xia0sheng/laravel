@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <title>Laravel 5 教程</title>
+    <title>xia0sheng 的Laravel测试空间</title>
     <link rel='stylesheet' href="http://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" type='text/css' media='all'/>
     <link rel='stylesheet' href="/css/all.css" type='text/css' media='all'/>
     <script type='text/javascript' src="/js/all.js"></script>
